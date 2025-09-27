@@ -90,7 +90,7 @@ function NestedMenu({ nodes, openMap, toggle }) {
 }
 
 const CategoryPanel = ({ open, onClose }) => {
-  // openMap: { [key]: boolean }
+  // openMap: { [key]: boolean }  
   const [openMap, setOpenMap] = useState({});
 
   const toggle = (key) => {

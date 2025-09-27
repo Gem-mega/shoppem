@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-medium-image-zoom": "^5.4.0",
+    "react-range-slider-input": "^3.2.1"
+  }
+}
