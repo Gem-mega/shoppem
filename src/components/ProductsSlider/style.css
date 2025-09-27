@@ -1,0 +1,4 @@
+.productsSlider .swiper-slide {
+  width: auto !important;   /* let items size naturally */
+  max-width: 250px;         /* optional: cap width */
+}
